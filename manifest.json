@@ -1,5 +1,6 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "static/avatar.jpg": "static/avatar-c99035c8ff4376bb578c17e597c4baed.jpg"
+  "static/avatar.jpg": "static/avatar-c99035c8ff4376bb578c17e597c4baed.jpg",
+  "static/triangle.svg": "static/triangle-8fe4642f4c859e84d114c3c4b0f697f5.svg"
 }
