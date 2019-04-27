@@ -65,14 +65,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm UND-E.
         </BigTitle>
-<<<<<<< HEAD
-        <Subtitle>
-          I'm creating noice web experiences for the next generation of
-          consumer-facing companies.
-        </Subtitle>
-=======
         <Subtitle>And I am programmed to sell underwear....</Subtitle>
->>>>>>> 842bb3e... Update assets with new edp logo
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
